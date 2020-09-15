@@ -16,5 +16,10 @@ namespace MattyCon3
         {
             InitializeComponent();
         }
+
+        private void RunBtn_Click(object sender, EventArgs e)
+        {
+            string[] lines = Input.Text.Split('\n');
+        }
     }
 }
