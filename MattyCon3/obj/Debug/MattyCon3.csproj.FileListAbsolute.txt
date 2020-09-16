@@ -1,7 +1,6 @@
 D:\Documents\Fiverr\Mattycon\MattyCon3\MattyCon3\bin\Debug\MattyCon3.exe.config
 D:\Documents\Fiverr\Mattycon\MattyCon3\MattyCon3\bin\Debug\MattyCon3.exe
 D:\Documents\Fiverr\Mattycon\MattyCon3\MattyCon3\bin\Debug\MattyCon3.pdb
-D:\Documents\Fiverr\Mattycon\MattyCon3\MattyCon3\obj\Debug\MattyCon3.csprojAssemblyReference.cache
 D:\Documents\Fiverr\Mattycon\MattyCon3\MattyCon3\obj\Debug\MattyCon3.Form1.resources
 D:\Documents\Fiverr\Mattycon\MattyCon3\MattyCon3\obj\Debug\MattyCon3.Properties.Resources.resources
 D:\Documents\Fiverr\Mattycon\MattyCon3\MattyCon3\obj\Debug\MattyCon3.csproj.GenerateResource.cache

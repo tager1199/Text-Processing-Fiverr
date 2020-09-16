@@ -25,7 +25,7 @@ namespace MattyCon3
             string[] lines = Input.Text.Split('\n');
             foreach (string i in lines)
             {
-                string[] words = i.Split(' ');
+                string[] words = i.Split(new char[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries);
                 
                 foreach (string j in words)
                 {
